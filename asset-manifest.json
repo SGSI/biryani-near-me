@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/biryani-near-me/static/css/main.f855e6bc.css",
+    "main.js": "/biryani-near-me/static/js/main.d660555a.js",
+    "static/js/453.00da6fc4.chunk.js": "/biryani-near-me/static/js/453.00da6fc4.chunk.js",
+    "static/media/biryani.png": "/biryani-near-me/static/media/biryani.de18a131e36b33c4fa71.png",
+    "static/media/comingSoon.jpg": "/biryani-near-me/static/media/comingSoon.aded2bbcd0a0603c21c0.jpg",
+    "index.html": "/biryani-near-me/index.html",
+    "main.f855e6bc.css.map": "/biryani-near-me/static/css/main.f855e6bc.css.map",
+    "main.d660555a.js.map": "/biryani-near-me/static/js/main.d660555a.js.map",
+    "453.00da6fc4.chunk.js.map": "/biryani-near-me/static/js/453.00da6fc4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.d660555a.js"
+  ]
+}
