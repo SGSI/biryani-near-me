@@ -14,7 +14,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Connect with me
+          Connect with me on Linkedin
         </a>
       </header>
     </div>
